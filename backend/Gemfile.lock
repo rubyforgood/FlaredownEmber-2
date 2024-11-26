@@ -332,7 +332,7 @@ GEM
     pusher-signature (0.1.8)
     racc (1.8.0)
     rack (2.2.9)
-    rack-cors (2.0.1)
+    rack-cors (2.0.2)
       rack (>= 2.0.0)
     rack-session (1.0.2)
       rack (< 3)
@@ -536,7 +536,7 @@ DEPENDENCIES
   pry-rails
   puma (= 5.6.8)
   pusher
-  rack-cors (= 2.0.1)
+  rack-cors (= 2.0.2)
   rack-timeout
   rails (~> 7.1.0)
   rails_12factor
